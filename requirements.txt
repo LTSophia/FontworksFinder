@@ -1,0 +1,5 @@
+fonttools
+numpy
+opencv-python
+pillow >= 8.0.0
+PySimpleGUI
